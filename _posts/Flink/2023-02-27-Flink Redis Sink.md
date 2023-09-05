@@ -1,3 +1,10 @@
+---
+layout: post
+title: Flink Redis Sink
+subtitle: There's lots to learn!
+tags: [Flink]
+comments: true
+---
 ## 简介
 
 流式计算中，我们经常有一些场景是消费Kafka数据，进行处理，然后存储到其他的数据库或者缓存或者重新发送回其他的消息队列中。

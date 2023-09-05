@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: Flink 消费Kafka的消息实时写入Mysql
+subtitle: There's lots to learn!
+tags: [Flink]
+comments: true
+---
 
 本文介绍消费Kafka的消息实时写入Mysql
 

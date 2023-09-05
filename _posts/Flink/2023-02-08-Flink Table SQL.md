@@ -1,3 +1,10 @@
+---
+layout: post
+title: Flink SQL
+subtitle: There's lots to learn!
+tags: [Flink]
+comments: true
+---
 ## 简介
 
 Apache Flink具有两个关系API 用于统一流和批处理。***Table API***是Scala和Java的语言集成查询API，允许以非常直观的方式组合来自关系运算符的查询，Table API和SQL接口彼此紧密集成，以及Flink的***DataStream和DataSet API***。您可以轻松地在基于API构建的所有API和库之间切换。例如，您可以使用CEP库从DataStream中提取模式，然后使用Table API分析模式，或者可以在预处理上运行Gelly图算法之前使用SQL查询扫描，过滤和聚合批处理表数据。

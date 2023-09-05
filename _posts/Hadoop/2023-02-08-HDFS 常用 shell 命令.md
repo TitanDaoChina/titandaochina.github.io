@@ -1,3 +1,10 @@
+---
+layout: post
+title: HDFS 常用 shell 命令
+subtitle: There's lots to learn!
+tags: [Hadoop]
+comments: true
+---
 # HDFS 常用 shell 命令
 
 **1. 显示当前目录结构**

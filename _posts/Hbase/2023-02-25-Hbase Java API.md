@@ -1,3 +1,10 @@
+---
+layout: post
+title: HBase Java API 的基本使用
+subtitle: There's lots to learn!
+tags: [Hbase]
+comments: true
+---
 # HBase Java API 的基本使用
 
 <nav>

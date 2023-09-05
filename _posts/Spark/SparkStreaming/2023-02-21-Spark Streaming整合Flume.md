@@ -1,3 +1,10 @@
+---
+layout: post
+title: Spark Streaming 整合Flume
+subtitle: There's lots to learn!
+tags: [Spark,Spark Streaming]
+comments: true
+---
 # Spark Streaming 整合 Flume
 
 <nav>

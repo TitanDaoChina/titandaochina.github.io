@@ -1,3 +1,10 @@
+---
+layout: post
+title: HDFS Java API
+subtitle: There's lots to learn!
+tags: [Hadoop]
+comments: true
+---
 # HDFS Java API
 
 <nav>

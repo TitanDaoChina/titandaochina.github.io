@@ -1,3 +1,10 @@
+---
+layout: post
+title: Zookeeper Java 客户端 ——Apache Curator
+subtitle: There's lots to learn!
+tags: [Zookeeper]
+comments: true
+---
 # Zookeeper Java 客户端 ——Apache Curator
 
 <nav>

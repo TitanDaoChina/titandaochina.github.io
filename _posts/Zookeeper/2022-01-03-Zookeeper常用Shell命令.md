@@ -1,3 +1,10 @@
+---
+layout: post
+title: Zookeeper常用Shell命令
+subtitle: There's lots to learn!
+tags: [Zookeeper]
+comments: true
+---
 # Zookeeper常用Shell命令
 
 <nav>

@@ -1,3 +1,10 @@
+---
+layout: post
+title: Sink
+subtitle: There's lots to learn!
+tags: [Flink]
+comments: true
+---
 # Flink Sink
 
 <nav>

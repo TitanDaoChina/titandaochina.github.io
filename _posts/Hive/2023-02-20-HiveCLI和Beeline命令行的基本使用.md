@@ -1,3 +1,10 @@
+---
+layout: post
+title: Hive CLI和Beeline命令行的基本使用
+subtitle: There's lots to learn!
+tags: [Hive]
+comments: true
+---
 # Hive CLI和Beeline命令行的基本使用
 
 <nav>

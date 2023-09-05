@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: DataStream API
+subtitle: There's lots to learn!
+tags: [Flink]
+comments: true
+---
 DataStream算子将一个或多个DataStream转换为新DataStream。程序可以将多个转换组合成复杂的数据流拓扑。
 DataStreamAPI和DataSetAPI主要的区别在于Transformation部分。
 ## DataStream Transformation

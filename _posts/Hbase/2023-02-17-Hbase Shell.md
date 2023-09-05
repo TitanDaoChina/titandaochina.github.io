@@ -1,3 +1,10 @@
+---
+layout: post
+title: Hbase 常用 Shell 命令
+subtitle: There's lots to learn!
+tags: [Hbase]
+comments: true
+---
 # Hbase 常用 Shell 命令
 
 <nav>

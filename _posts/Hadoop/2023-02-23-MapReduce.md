@@ -1,3 +1,10 @@
+---
+layout: post
+title: 分布式计算框架——MapReduce
+subtitle: There's lots to learn!
+tags: [Hadoop]
+comments: true
+---
 # 分布式计算框架——MapReduce
 
 <nav>

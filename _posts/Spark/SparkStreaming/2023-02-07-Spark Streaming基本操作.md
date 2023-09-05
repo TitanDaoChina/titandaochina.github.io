@@ -1,3 +1,10 @@
+---
+layout: post
+title: Spark Streaming 基本操作
+subtitle: There's lots to learn!
+tags: [Spark,Spark Streaming]
+comments: true
+---
 # Spark Streaming 基本操作
 
 <nav>

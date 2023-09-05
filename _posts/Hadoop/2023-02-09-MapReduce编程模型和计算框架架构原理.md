@@ -1,3 +1,10 @@
+---
+layout: post
+title: MapReduce编程模型
+subtitle: There's lots to learn!
+tags: [Hadoop]
+comments: true
+---
 Hadoop解决大规模数据分布式计算的方案是MapReduce。MapReduce既是一个编程模型，又是一个计算框架。也就是说，开发人员必须基于MapReduce编程模型进行编程开发，然后将程序通过MapReduce计算框架分发到Hadoop集群中运行。我们先看一下作为编程模型的MapReduce。
 
 ### MapReduce编程模型
