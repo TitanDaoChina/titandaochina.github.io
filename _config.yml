@@ -22,7 +22,7 @@ author: 一粒米
 navbar-links:
   About Me: "study"
   Resources:
-    - Vue: "https://cn.vuejs.org/guide/introduction.html"
+    - Vue.js文档: "https://cn.vuejs.org/guide/introduction.html"
     - CSS 层叠样式: "https://developer.mozilla.org/zh-CN/docs/Web/CSS"
   Author's home: "https://titandaochina.github.io/"
 
