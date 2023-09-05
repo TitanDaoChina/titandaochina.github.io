@@ -20,11 +20,10 @@ author: 一粒米
 ###############################################
 
 navbar-links:
-  About Me: "study"
-  Resources:
+  外部学习:
     - Vue.js文档: "https://cn.vuejs.org/guide/introduction.html"
     - CSS 层叠样式: "https://developer.mozilla.org/zh-CN/docs/Web/CSS"
-  Author's home: "https://titandaochina.github.io/"
+  导航: "https://titandaochina.github.io/tags/"
 
 ################
 # --- Logo --- #
