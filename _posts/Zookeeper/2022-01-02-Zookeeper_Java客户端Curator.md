@@ -91,7 +91,7 @@ public class BasicOperation {
 
 在连接 Zookeeper 时，Curator 提供了多种重试策略以满足各种需求，所有重试策略均继承自 `RetryPolicy` 接口，如下图：
 
-![img_4.png](resources/img_4.png)
+![img_4.png](_posts/resources/img_4.png)
 
 这些重试策略类主要分为以下两类：
 
